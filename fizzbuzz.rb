@@ -7,3 +7,8 @@ if number % 3 ==0
   puts "reply with FizzBuzz"
 end
 
+
+def fizzbuzz(number)
+if number % 15 ==0 
+  puts "fizzbuzz"
+  elsif number
