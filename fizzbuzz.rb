@@ -1,8 +1,8 @@
 
 number = 20
-if number 20%3 
+if number%3==0 
   puts "reply with Fizz"
-  elsif number%5
+  elsif number%5==20
   puts "relpy with Buzz"
   else if number%15==0 
   puts "reply with FizzBuzz"
