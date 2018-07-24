@@ -1,4 +1,4 @@
-
+number = 10
 if number % 3 ==0 
   puts "reply with Fizz"
   elsif number % 5 ==0
